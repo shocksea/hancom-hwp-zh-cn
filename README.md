@@ -17,6 +17,11 @@
 
 注意事项和未汉化的内容见压缩包内的 `README.txt`。
 
+## 版本不符怎么办
+
+- 本机版本低于 13.0.0.4131：到 [Hancom 官方更新页面](https://help.hancom.com/updates/hoffice130/ko-KR/HOffice2024_update.htm) 下载补丁，升级后再安装汉化。
+- Hancom 发布了更新的版本：自动更新后界面会变回韩文，汉化包需要随之更新。发现新版本时，欢迎在 [Issues](../../issues) 告诉我们，我们会在适当的时候更新。
+
 ## 声明
 
 本汉化为个人制作，非官方版本，与 Hancom Inc. 无关。Hancom、HWP 等名称和商标归 Hancom Inc. 所有。请在拥有正版授权的前提下使用。
